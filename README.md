@@ -1,1 +1,1 @@
-Play here: https://gaoyanyan666.github.io/happy-face-match-game/index.html
+[![Screen Shot 2022-08-13 at 7 07 23 PM](https://user-images.githubusercontent.com/75104968/184519575-9eaddbea-b6d7-41ce-8232-1efdf4bea246.png)](https://gaoyanyan666.github.io/happy-face-match-game/index.html)
